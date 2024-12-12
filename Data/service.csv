@@ -1,0 +1,21 @@
+ServiceID,ServiceType,Description,Cost
+1,"Room Cleaning","Daily cleaning of guest rooms",30.00
+2,Laundry,"Washing and ironing of clothes",20.00
+3,"Valet Parking","Professional valet service for guest vehicles",15.00
+4,"Airport Shuttle","Transportation to and from the airport",50.00
+5,"Spa Treatment","Massage and wellness services",100.00
+6,"Room Service","In-room dining service",10.00
+7,"Wi-Fi Access","High-speed internet access",5.00
+8,"Concierge Service","Assistance with making reservations",0.00
+9,"Fitness Center","Access to gym facilities",29.00
+10,"Business Center","Access to business facilities",25.00
+11,"Pet Care","Pet sitting and walking services",40.00
+12,Babysitting,"Babysitting services for families",35.00
+13,"Breakfast Buffet","Access to hotel breakfast buffet",20.00
+14,"Mini Bar","Access to mini bar in room",10.00
+15,"Car Rental","On-site car rental services",60.00
+16,"Pool Access","Access to the hotel swimming pool",0.00
+17,"Meeting Room","Booking of conference/meeting rooms",100.00
+18,"Late Checkout","Extended checkout time beyond regular hours",50.00
+19,"Special Decor","Room decoration for special occasions (birthdays, etc.)",75.00
+20,"Luggage Storage","Temporary storage of guest luggage after checkout",0.00
